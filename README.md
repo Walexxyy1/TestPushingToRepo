@@ -33,7 +33,7 @@ Click on the play button of the visual studio
 - [Contributing](#contributing)
 - [License](#license)
 
-[![Build Status](https://your-ci-provider.com/your-username/your-repo/build-status)](https://your-ci-provider.com/your-username/your-repo)
+
 
 
 
