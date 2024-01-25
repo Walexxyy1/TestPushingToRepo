@@ -22,6 +22,15 @@ In the root directory of the application, make sure to add the Web.config file w
 ## Running The App
 Click on the play button of the visual studio
 
+## Table of Contents
+- [About](#about)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 
