@@ -22,6 +22,7 @@ In the root directory of the application, make sure to add the Web.config file w
 ## Running The App
 Click on the play button of the visual studio
 
+
 ## Table of Contents
 - [About](#about)
 - [Getting Started](#getting-started)
@@ -32,6 +33,7 @@ Click on the play button of the visual studio
 - [Contributing](#contributing)
 - [License](#license)
 
+[![Build Status](https://your-ci-provider.com/your-username/your-repo/build-status)](https://your-ci-provider.com/your-username/your-repo)
 
 
 
