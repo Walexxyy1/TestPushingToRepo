@@ -4,8 +4,9 @@ This is the test environ middlware sitting between the core banking app and the 
 This repo contains the testing app
 
 ## Running The App
-chmod 700 ~/.ssh
-chmod 600 ~/.ssh/id_rsa
+git clone https://github.com/DLMCapital/Asset-Management-BE-v3
+
+cd Asset-Management-BE-v3
 
 ## Prerequisites
 Have the following tools installed on your machine:
