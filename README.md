@@ -12,12 +12,12 @@ Have the following tools installed on your machine:
 ```bash
 git clone https://github.com/Walexxyy1/TestPushingToRepo
 
-cd Asset-Management-BE-v3
+cd TestPushingToRepo
 ```
 Open the project on visual studio
 
 ## Adding file
-Make sure to add the Web.config file wherein you will input your app settings like the database connectionstring
+In the root directory of the application, make sure to add the Web.config file wherein you will input your app settings like the database connectionstring
 
 ## Running The App
 Click on the play button of the visual studio
