@@ -16,8 +16,8 @@ cd TestPushingToRepo
 ```
 Open the project on visual studio
 
-## Adding file
-In the root directory of the application, make sure to add the Web.config file wherein you will input your app settings like the database connectionstring
+## Adding configuratin file
+In the root directory of the application, make sure to add the Web.config file that contains settings and configurations for the application
 
 ## Running The App
 Click on the play button of the visual studio
