@@ -21,7 +21,7 @@ Open the project on visual studio
 In the root directory of the application, make sure to add the Web.config file that contains settings and configurations for the application.
 
 ## Running The App
-Click on the play button of the visual studio
+Build the application and run it on visual studio
 
 
 ## Table of Contents
