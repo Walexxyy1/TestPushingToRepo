@@ -1,7 +1,8 @@
 # TestPushingToRepo
-Middleware
+Staging Middleware Code
+
 ## Description
-This repository contains a middleware that facilitates communication between the core banking application and the mobile application.
+This repository contains a middleware that serves as a bridge facilitating seamless communication  between the core banking application and the mobile application.
 
 ## Prerequisites
 Have the following tools installed on your machine:
@@ -17,7 +18,7 @@ cd TestPushingToRepo
 Open the project on visual studio
 
 ## Adding configuratin file
-In the root directory of the application, make sure to add the Web.config file that contains settings and configurations for the application
+In the root directory of the application, make sure to add the Web.config file that contains settings and configurations for the application.
 
 ## Running The App
 Click on the play button of the visual studio
